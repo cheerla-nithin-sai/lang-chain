@@ -1,2 +1,13 @@
 langchain
 ipykernel
+python-dotenv
+# to import all key value pairs from .env apis
+
+langchain_community
+# langchain community for all langchain packages
+
+pypdf
+# to read a pdf file
+
+bs4
+# beautiful soup for web scraping
