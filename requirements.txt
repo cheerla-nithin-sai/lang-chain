@@ -11,3 +11,6 @@ pypdf
 
 bs4
 # beautiful soup for web scraping
+
+langchain-text-splitters
+# to use all different types of text splitters
