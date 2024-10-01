@@ -14,3 +14,24 @@ bs4
 
 langchain-text-splitters
 # to use all different types of text splitters
+
+python-dotenv
+# used to call all the environment variables in the project
+
+langchain-openai
+# to deal with openai
+
+chromadb
+# to store vectors we use diff dbases one is chromadb in openai
+
+sentence-transformers
+# in this library hugging face embedding is available
+
+langchain_huggingface
+# langchain and hf are combined to create one library
+
+fassi-cpu
+# to use fassi
+
+langchain_chroma
+# using chromadb directly from langchain
