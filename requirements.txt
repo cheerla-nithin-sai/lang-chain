@@ -30,8 +30,26 @@ sentence-transformers
 langchain_huggingface
 # langchain and hf are combined to create one library
 
-fassi-cpu
-# to use fassi
-
 langchain_chroma
 # using chromadb directly from langchain
+
+streamlit
+# web app
+
+groq
+# to interact with groq apis
+
+langchain_groq
+# use langchain with groq
+
+fastapi
+# webframework for building apis with python
+
+uvicorn
+# webserver to communicate with fastapi
+
+langserve
+# to handle deployment , to focus on refining features 
+
+fassi-cpu
+# to use fassi
