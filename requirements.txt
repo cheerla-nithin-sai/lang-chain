@@ -27,8 +27,6 @@ chromadb
 sentence-transformers
 # in this library hugging face embedding is available
 
-langchain_huggingface
-# langchain and hf are combined to create one library
 
 langchain_chroma
 # using chromadb directly from langchain
@@ -51,5 +49,17 @@ uvicorn
 langserve
 # to handle deployment , to focus on refining features 
 
-fassi-cpu
+faiss-cpu
 # to use fassi
+
+arxiv
+# to access repositories from scholary articles
+
+pymupdf
+# library for data extraction from pdf
+
+wikipedia
+# to access wiki content
+
+langchain-huggingface
+# langchain and hugging face are integrated
